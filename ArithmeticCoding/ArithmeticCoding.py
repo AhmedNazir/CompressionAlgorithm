@@ -109,10 +109,14 @@ for i in range(testcase):
 print(f"Total Test: {testcase}")
 print(f"Succecss: {count}")
 
-##########################################
 
-
+#----------------------------------------
 # User given specific data
 # Please use small string (less than 13 characters)
 txt = "BANGLADESH$"
 arithmetic_coding(txt)
+
+
+##########################################
+
+
